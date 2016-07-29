@@ -6,19 +6,19 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hacklab Almeria
-tagline:          'Taller de Jekyll'
-description:      'Instalación preconfigurada para el taller de Jekyll en HackLab Almería. Basado en Hyde de @mdo.'
-url:              http://juanjosalvador.es
+title:            Genetic Fractals
+tagline:          '2D genetic fractals maker’s guide'
+description:      'GitHub Page in Jekykll for Genetic Fractals studies by Henk Mulder'
+url:              http://127.0.0.1:4000
 baseurl:          /
 
 author:
-  name:           'Juanjo Salvador'
-  url:            https://twitter.com/linuxneitor
+  name:           'Genetic Fractals'
+  url:            https://geneticfractals.org
 paginate:         5
 
 # Custom vars
 version:          2.1.0
 gems:             [jekyll-paginate]
 
-github:           'JuanjoSalvador'
+github:           'GeneticFractals'

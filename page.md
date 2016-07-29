@@ -1,14 +1,41 @@
 ---
 layout: page
-title: Página de ejemplo
+title: What are Genetic Fractals?
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lacinia lacinia elit, blandit volutpat libero dignissim id. Sed dictum quam sed maximus efficitur. Nunc interdum mauris vel tellus gravida, vitae placerat velit tincidunt. Aenean consectetur felis nec tellus placerat, gravida consequat metus iaculis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras elementum turpis nibh, condimentum tempor orci volutpat ut. Pellentesque semper, velit vel posuere hendrerit, augue mi rhoncus nisi, nec accumsan velit metus in metus. Fusce sit amet varius erat, non viverra enim. Aenean a erat et tellus congue ullamcorper sit amet sit amet sem.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus vel sagittis sem. Maecenas tristique tempor dolor id elementum. Phasellus quis ipsum id nisl malesuada tempor in vehicula urna. Curabitur fermentum est et pellentesque euismod. Sed sollicitudin diam quis mauris tempor, eget elementum nibh vehicula. Nullam sed suscipit risus, nec volutpat sem. Quisque consequat tortor dolor, ac dapibus nibh lacinia vitae. Maecenas nec ornare augue.
+![]({{ site.url }}/public/hyper-flower.png)
 
-Quisque hendrerit iaculis metus id pharetra. Praesent interdum, metus ut tempus scelerisque, urna sem vulputate tellus, non blandit risus magna vel mi. Cras id sagittis diam. Praesent bibendum est lacus, vitae ornare mauris venenatis et. Donec porta dictum feugiat. Phasellus posuere tincidunt lobortis. Suspendisse odio ex, molestie at blandit sed, hendrerit eget libero. Aenean a est eget libero interdum feugiat. Suspendisse varius odio vehicula magna convallis viverra. Curabitur dictum magna vitae ligula scelerisque elementum. Donec maximus ipsum quis erat tincidunt, et gravida orci faucibus. Praesent convallis aliquet est, molestie faucibus sem lacinia ac. Phasellus non ipsum eu tellus ornare commodo pretium vel massa.
+A fractal is a theoretical  object that has infinitely many wiggly bits. Mathematicians prefer a more rigorous definition involving non-integer dimensions whereas fractal enthusiasts often focus on the self-similarity property of many (but not all) fractals.
 
-Donec cursus nunc quam, et vehicula turpis lobortis in. Phasellus eget odio justo. Fusce molestie lacus nulla, sed tincidunt mi convallis ac. Morbi sit amet mollis velit. Nullam blandit eleifend nisi, et luctus dolor gravida eget. Maecenas porttitor mauris sed pharetra semper. Praesent faucibus ac orci eu consequat. Aliquam imperdiet tempor egestas. Nulla consequat ut urna nec varius. Phasellus consectetur, velit sed pretium cursus, justo neque tempor nulla, vel porta sem quam tincidunt risus. Ut scelerisque porta metus id scelerisque. Aenean id tortor consectetur, interdum dolor vel, euismod magna.
+This means that when you zoom in anywhere into an image of a fractal, you can see the original image of the fractal re-emerge, no matter how much you zoom in. An example of such a fractal is shown below. 
 
-Morbi vulputate pulvinar blandit. In in est purus. In vulputate vehicula nunc id ultricies. Morbi sed cursus turpis. Nunc diam dolor, laoreet sit amet tincidunt ut, condimentum ullamcorper risus. Nam ultrices odio a pellentesque malesuada. Donec suscipit ullamcorper elit in pretium. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+You can see the six pointed flakes at every level.
+![6branch fractal]({{ site.url }}/public/6branch-fractal.gif)
+
+Many – if not most – things in nature are approximately fractal. Often quoted examples are ferns that show repeated self similarity in their leaves and the coastline of Britain that is “infinitely” wiggly. The 3D printed fractal below resembles a tree. The little branches have exactly the same shape as the bigger branches, they are just smaller.
+
+3D printed genetic fractal (courtesy Printabit.ch)
+![3D printed genetic fractal (courtesy Printabit.ch)]({{ site.url }}/public/shadowtree.jpg)
+
+In addition to often being fractal, nature has a fundamental structure that is often quite different from the things made by man. When you observe a flowering plant, it is easy to see how it is composed of a root system, a stem and branch system, leaves with nerve systems and then flowers that have their own architecture altogether.
+
+Is there a fractal structure between roots, branches, flowers etc? Indeed. We know from science that a flowering plant is a single living organism with its own genome, i.e. genetic code. This is where the inspiration for genetic fractals come from: complex and composite structures that are driven by  a genetic code.
+
+Although the genetic code produces things that look very different, if you look carefully, you’ll see that flower petals, the shape of a flower and the shape of a plant and its leaves often resemble each other. This fractal relationship is due to the fact that every cell is produced by the same genome that itself has self-similarity in its patterns.7
+
+"Root Larvae", grown with artificial DNA and Genetic Fractals
+![“Root Larvae”, grown with artificial DNA and Genetic Fractals]({{ site.url }}/public/3d-genetic-fractal-root-larvae.png)
+
+Virtually all living organisms grow like fractals, i.e. cells split and essentially form a new branch of tissue on the organism over and over again. As such an organism grows, it forms shapes that emerge at different scales. As such, such organisms gave a fractal geometry.
+
+Because of that relationship between genes and living fractals, I call these things “genetic fractals”.
+
+Emulating nature and creating interesting or bizarre organic looking fractals like the “Root Larvae” above is only one application of genetic fractals. We can also use them to ‘grow’ mechanical and other engineered structures by using mechanical elements rather than living cells.
+
+Genetic Fractals - random wheels
+![Genetic Fractals – wheels out of bound]({{ site.url }}/public/gf3.jpg)
+
+These are not necessarily useful objects but they point towards a different way of thinking about mechanical systems. An organic approach to engineering and design.
+
+Due to the genetic nature of these fractals, i.e. the fact that they are created from a sort of “artificial DNA”, we can do genetic engineering and stick bits of “DNA” from genetic fractal into another and thereby transpose some of the features of one to another. This is a very powerful design paradigm that I use to create these genetic fractals. I have also turned this into a design language and even a tool. More on www.geneticfractals.com.
