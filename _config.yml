@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Genetic Fractals
 tagline:          '2D genetic fractals maker’s guide'
 description:      'GitHub Page in Jekykll for Genetic Fractals studies by Henk Mulder'
-url:              http://127.0.0.1:4000
+url:              http://RadW2020.github.io/GeneticFractal2D-1/
 baseurl:          /
 
 author:
