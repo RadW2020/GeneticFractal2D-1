@@ -38,4 +38,4 @@ Genetic Fractals - random wheels
 
 These are not necessarily useful objects but they point towards a different way of thinking about mechanical systems. An organic approach to engineering and design.
 
-Due to the genetic nature of these fractals, i.e. the fact that they are created from a sort of “artificial DNA”, we can do genetic engineering and stick bits of “DNA” from genetic fractal into another and thereby transpose some of the features of one to another. This is a very powerful design paradigm that I use to create these genetic fractals. I have also turned this into a design language and even a tool. More on www.geneticfractals.com.
+Due to the genetic nature of these fractals, i.e. the fact that they are created from a sort of “artificial DNA”, we can do genetic engineering and stick bits of “DNA” from genetic fractal into another and thereby transpose some of the features of one to another. This is a very powerful design paradigm that I use to create these genetic fractals. I have also turned this into a design language and even a tool. More on [www.geneticfractals.com](http://www.geneticfractals.com).

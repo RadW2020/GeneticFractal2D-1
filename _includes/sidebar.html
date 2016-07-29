@@ -10,7 +10,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">2D genetic fractals maker's guide</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -27,6 +27,8 @@
       {% endfor %}
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p><img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png">
+		<font size="3">{{ site.time | date: '%Y' }}. 
+		This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</font></p>
   </div>
 </div>
