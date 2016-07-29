@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Hacklab Almeria
+tagline:          'Taller de Jekyll'
+description:      'Instalación preconfigurada para el taller de Jekyll en HackLab Almería. Basado en Hyde de @mdo.'
+url:              http://juanjosalvador.es
+baseurl:          /
+
+author:
+  name:           'Juanjo Salvador'
+  url:            https://twitter.com/linuxneitor
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+gems:             [jekyll-paginate]
+
+github:           'JuanjoSalvador'
